@@ -1,3 +1,6 @@
+'''
+Import libraries
+'''
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -79,3 +82,4 @@ plt.xlabel("Duration")
 plt.ylabel("Number of Movies")
 plt.xticks(range(28, 195, 10))
 st.pyplot(plt)
+
