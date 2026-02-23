@@ -1,4 +1,4 @@
 pandas
 numpy
 matplotlib
-streamlit==1.32.2
+streamlit==1.54.0
